@@ -32,5 +32,7 @@ public class TableData {
             textColor = null;
         }
         textSize = jsonObject.optInt("textSize");
+        
+        System.out.println("健康据了解地方大师傅多少发斯蒂芬");
     }
 }
