@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--<com.wantup.jxtv.view.MyTableTextView
+        android:id="@+id/tableview0"
+        android:layout_width="@dimen/y100"
+        android:layout_height="match_parent"
+        android:paddingTop="@dimen/y2"
+        android:paddingBottom="@dimen/y2"
+        android:gravity="center"
+        android:maxLines="3"
+        android:ellipsize="end"
+        android:textColor="#000"
+        android:textSize="@dimen/y13" />
+    <com.wantup.jxtv.view.MyTableTextView
+        android:id="@+id/tableview1"
+        android:layout_width="@dimen/y100"
+        android:layout_height="match_parent"
+        android:paddingTop="@dimen/y2"
+        android:paddingBottom="@dimen/y2"
+        android:gravity="center"
+        android:maxLines="3"
+        android:ellipsize="end"
+        android:textColor="#000"
+        android:textSize="@dimen/y13" />
+    <com.wantup.jxtv.view.MyTableTextView
+        android:id="@+id/tableview2"
+        android:layout_width="@dimen/y100"
+        android:layout_height="match_parent"
+        android:paddingTop="@dimen/y2"
+        android:paddingBottom="@dimen/y2"
+        android:gravity="center"
+        android:maxLines="3"
+        android:ellipsize="end"
+         android:textColor="#000"
+        android:textSize="@dimen/y13" />
+    <com.wantup.jxtv.view.MyTableTextView
+        android:id="@+id/tableview3"
+        android:layout_width="@dimen/y100"
+        android:layout_height="match_parent"
+        android:paddingTop="@dimen/y2"
+        android:paddingBottom="@dimen/y2"
+        android:gravity="center"
+        android:maxLines="3"
+        android:ellipsize="end"
+        android:textColor="#000"
+        android:textSize="@dimen/y13" />
+    <com.wantup.jxtv.view.MyTableTextView
+        android:id="@+id/tableview4"
+        android:layout_width="@dimen/y100"
+        android:layout_height="match_parent"
+        android:paddingTop="@dimen/y2"
+        android:paddingBottom="@dimen/y2"
+        android:gravity="center"
+        android:maxLines="3"
+        android:ellipsize="end"
+        android:textColor="#000"
+        android:textSize="@dimen/y13" />
+    <com.wantup.jxtv.view.MyTableTextView
+        android:id="@+id/tableview5"
+        android:layout_width="@dimen/y100"
+        android:layout_height="match_parent"
+        android:paddingTop="@dimen/y2"
+        android:paddingBottom="@dimen/y2"
+        android:gravity="center"
+        android:maxLines="3"
+        android:ellipsize="end"
+        android:textColor="#000"
+        android:textSize="@dimen/y13" />
+    <com.wantup.jxtv.view.MyTableTextView
+        android:id="@+id/tableview6"
+        android:layout_width="@dimen/y100"
+        android:layout_height="match_parent"
+        android:paddingTop="@dimen/y2"
+        android:paddingBottom="@dimen/y2"
+        android:gravity="center"
+        android:maxLines="3"
+        android:ellipsize="end"
+        android:textSize="@dimen/y13"
+        android:textColor="#000" />-->
+
+    <!--<com.wantup.jxtv.view.MyTableTextView
+        android:id="@+id/tableview0"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/y2"
+        android:paddingBottom="@dimen/y2"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="@dimen/y13" />
+    <com.wantup.jxtv.view.MyTableTextView
+        android:id="@+id/tableview1"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/y2"
+        android:paddingBottom="@dimen/y2"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="@dimen/y13" />
+    <com.wantup.jxtv.view.MyTableTextView
+        android:id="@+id/tableview2"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/y2"
+        android:paddingBottom="@dimen/y2"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="@dimen/y13" />
+    <com.wantup.jxtv.view.MyTableTextView
+        android:id="@+id/tableview3"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/y2"
+        android:paddingBottom="@dimen/y2"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="@dimen/y13" />
+    <com.wantup.jxtv.view.MyTableTextView
+        android:id="@+id/tableview4"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/y2"
+        android:paddingBottom="@dimen/y2"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="@dimen/y13" />
+    <com.wantup.jxtv.view.MyTableTextView
+        android:id="@+id/tableview5"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/y2"
+        android:paddingBottom="@dimen/y2"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="@dimen/y13" />
+    <com.wantup.jxtv.view.MyTableTextView
+        android:id="@+id/tableview6"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/y2"
+        android:paddingBottom="@dimen/y2"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="@dimen/y13" />-->
+</LinearLayout>
